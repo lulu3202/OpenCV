@@ -1,15 +1,15 @@
 
-# OpenCV - Learnings and Takeaways from FreeCodeCamp.org's Computer Vision and AI with OpenCV
+# OpenCV - Learnings and Takeaways from FreeCodeCamp.org's Computer Vision and AI with OpenCV Course
 
 ## Chap 1
  Basics Operation in Open CV
-	Jupyter notebook the outlines:
-	* Reading an image 
-	* Check image attributes like datatype and shape 
-	* Matrix representation of an image in Numpy
-	* Color Images and splitting/merging image channels
-	* Displaying images using matplotlib
-	* Saving images
+This Jupyter notebook outlines:
+ * Reading an image 
+* Check image attributes like datatype and shape 
+* Matrix representation of an image in Numpy
+* Color Images and splitting/merging image channels
+* Displaying images using matplotlib
+* Saving images
 
 ## Chap 2
 Basic Image Manipulations Jupyter Notebook
