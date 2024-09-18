@@ -48,3 +48,13 @@ This notebook describes how to save a video in **avi** and **mp4** formats using
   Python Code snippet to access camera - Run it in your fav IDE - Visual Studio Code or Pycharm
 
   Note original video files can be downloaded from to be added to your local folder - Code: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWxkeXlBcENKLWJsd191VXpVVW5jelpDWGFxQXxBQ3Jtc0tsWjAzX2hmVFd1TklMR3RnZkFrSDZHWGJ6OXdRc21aNENwdC0tMFY3VFhEaDRodHlJS3dwdm9FMWhsektzZlpiZjktVEhUcWdoQmE1YVNlaFpyRnZENk5iQ3VIa2dqWEpEYmFmNWdLMFNFX1pOMUR1NA&q=https%3A%2F%2Fwww.dropbox.com%2Fsh%2Fe9geq90qno2nr4v%2FAAAVpCLnXetTEYZFwby3MwkGa%3Fdl%3D1&v=P4Z8_qe2Cu0
+
+## Chap 8
+  Jupyter Notebook that illustrates how to align scanned images using OpenCV
+
+## Chap 9 
+ Jupyter Notebook that illustrates how to stitch multiple images to create 1 panoromic image
+
+## Chap 10
+ Jupyter Notebook that illustrates how to merge pictures with different exposures into 1 picture with high dynamic range
+ 
